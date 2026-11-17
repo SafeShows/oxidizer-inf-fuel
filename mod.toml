@@ -1,0 +1,8 @@
+# The mod's id is the name of its folder in mods/ (here: inf_fuel). Rename the folder, `name` and MOD_ID in
+# .github/workflows/release.yml together.
+name = "inf_fuel"
+
+[oxidizer]
+script = "main.rhai"
+# The release workflow sets this from the git tag.
+version = "0.1.0"

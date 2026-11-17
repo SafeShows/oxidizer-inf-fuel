@@ -8,7 +8,7 @@ name = "Infinite Fuel"
 authors = ["SafeShows"]
 abstract = "Keeps the controlled vehicle's tanks full, even while burning. Toggle it in the Mods menu."
 license = "MIT-0"
-tags = ["gameplay"]# see tags.toml in the content index
+tags = ["gameplay"]               # see tags.toml in the content index
 
 [releases]
 github = "SafeShows/oxidizer-inf-fuel"

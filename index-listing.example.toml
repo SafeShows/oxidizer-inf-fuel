@@ -7,14 +7,14 @@ type = "mod"
 name = "Infinite Fuel"
 authors = ["SafeShows"]
 abstract = "Keeps the controlled vehicle's tanks full, even while burning. Toggle it in the Mods menu."
-license = "MIT"
-tags = ["cheat"]             # see tags.toml in the content index
+license = "MIT-0"
+tags = ["gameplay"]# see tags.toml in the content index
 
 [releases]
 github = "SafeShows/oxidizer-inf-fuel"
 
 [links]
-forums = "https://forums.ahwoo.com/threads/your-thread.123/"   # required: a thread for your mod
+forums = "https://forums.ahwoo.com/forums/kitten-space-agency/mod-releases/infinite-fuel-tanks-that-never-run-dry-oxidizer.1715/"
 repository = "https://github.com/SafeShows/oxidizer-inf-fuel"
 
 [compatibility]
